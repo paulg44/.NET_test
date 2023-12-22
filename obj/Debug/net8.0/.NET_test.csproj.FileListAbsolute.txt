@@ -1,0 +1,15 @@
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\bin\Debug\net8.0\.NET_test.exe
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\bin\Debug\net8.0\.NET_test.deps.json
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\bin\Debug\net8.0\.NET_test.runtimeconfig.json
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\bin\Debug\net8.0\.NET_test.dll
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\bin\Debug\net8.0\.NET_test.pdb
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.AssemblyInfoInputs.cache
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.AssemblyInfo.cs
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.csproj.CoreCompileInputs.cache
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.sourcelink.json
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.dll
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\refint\.NET_test.dll
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.pdb
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\.NET_test.genruntimeconfig.cache
+C:\Users\paulg\OneDrive\Documents\Projects\.net_playground\.NET_test\obj\Debug\net8.0\ref\.NET_test.dll
